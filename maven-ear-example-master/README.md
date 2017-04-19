@@ -1,2 +1,2 @@
-maven ear example
+maven ear example.
 =====================
