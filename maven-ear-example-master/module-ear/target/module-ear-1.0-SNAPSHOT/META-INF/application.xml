@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <display-name>module-ear</display-name>
+  <module>
+    <web>
+      <web-uri>module-web-1.0-SNAPSHOT.war</web-uri>
+      <context-root>sistema</context-root>
+    </web>
+  </module>
+  <module>
+    <ejb>module-ejb-1.0-SNAPSHOT.jar</ejb>
+  </module>
+</application>
